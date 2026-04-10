@@ -1,5 +1,5 @@
-#Python fundamentals
-# Python Tasks
+
+# Python Fundamentals
 
 This repository includes:
 
