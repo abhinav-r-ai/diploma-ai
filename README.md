@@ -14,8 +14,8 @@ I’m building this to keep track my learning journey during Diploma in AI.
  diploma-ai
 │
 ├── python-programming/
-│   ├── 
-
+│   ├── task_1_python_loops.ipynb
+ 
 ```
 
  
