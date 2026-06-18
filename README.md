@@ -16,6 +16,9 @@ I’m building this to keep track my learning journey during Diploma in AI.
 ├── python-programming/
 │   ├── task_1_python_loops.ipynb
 │   ├── task_2_functions.ipynb
+├──Data-Analysis/
+│   ├── task_3_DataExploration.ipynb
+│   ├──task_4_DataVisulaization.ipynb
 ```
 
  
